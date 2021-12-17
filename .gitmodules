@@ -1,0 +1,9 @@
+[submodule "StraitXPackages/Base"]
+	path = StraitXPackages/Base
+	url = git@github.com:StraitX/Base.git
+[submodule "StraitXPackages/ImGui"]
+	path = StraitXPackages/ImGui
+	url = git@github.com:StraitX/ImGui.git
+[submodule "Thirdparty/tinygltf"]
+	path = Thirdparty/tinygltf
+	url = https://github.com/syoyo/tinygltf.git
